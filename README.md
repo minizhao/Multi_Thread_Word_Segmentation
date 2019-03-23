@@ -16,3 +16,6 @@ java -jar SplitSents-1.0-SNAPSHOT.jar org.txt word_list.txt 10 splited.txt
 
 ## 分词效果：<br>
 算法根据用户字典为首要条件，尽可能分出词汇表中包含的词，减少OOV词汇
+
+## 引用
+项目核心分词逻辑借用AnsjSplit实现
