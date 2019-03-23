@@ -19,3 +19,6 @@ java -jar SplitSents-1.0-SNAPSHOT.jar org.txt word_list.txt 10 splited.txt
 
 ## 引用
 项目核心分词逻辑借用AnsjSplit实现
+
+## 效率
+处理1个G的数据文件大约需要2分钟左右
