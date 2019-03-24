@@ -1,8 +1,8 @@
 # Multi_Thread_Word_Segmentation
 
-## java 实现多线程自定义词典优先快速分词：
+## java 实现多线程自定义词典优先快速分词
 
-## jar包运行
+## jar包运行：
 参数说明
 args:<br>
   arg1：待分词数据文件（内容一句话为一行）<br>
